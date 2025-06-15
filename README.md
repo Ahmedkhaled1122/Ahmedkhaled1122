@@ -50,7 +50,7 @@ heart disease prediction. My enthusiasm for AI drives me to continuously learn a
 tackle real-world challenges through innovative solutions
     </td>
     <td width="35%" align="right">
-      <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="Coder GIF"/>
+      <img src="https://i.postimg.cc/zXBMs9Kk/image.jpg" height="150" alt="Coder GIF"/>
     </td>
   </tr>
 </table>

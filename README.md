@@ -79,6 +79,7 @@ tackle real-world challenges through innovative solutions
         <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -88,7 +89,6 @@ tackle real-world challenges through innovative solutions
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </div>
     </td>
     <td valign="top" width="33%">

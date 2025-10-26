@@ -210,7 +210,7 @@ tackle real-world challenges through innovative solutions
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HendRamadan1/Ahmedkhaled1122/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ahmedkhaled1122/Ahmedkhaled1122/main/output/snake.svg" alt="Snake animation" />
 </p>
 
 
